@@ -53,7 +53,7 @@ content
 
 h1
     {
-        background: linear-gradient(135deg, rgb(255, 0, 0), rgb(3, 209, 255));
+        background: linear-gradient(135deg, rgb(167, 19, 172), rgb(1, 61, 120));
         -webkit-background-clip: text;
         color: transparent;
         font-size: 5rem;
@@ -90,7 +90,7 @@ button
         font-size: 1rem; 
         cursor: pointer; 
         transition: background-color 0.3s;
-        background-color: rgb(61, 55, 55);
+        background-color: rgba(0, 8, 255, 0.298);
     }
 
 a:link
